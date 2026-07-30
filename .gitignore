@@ -1,6 +1,6 @@
-# Logs
+MR.RUNGPHET THIMTHAP# Logs
 logs
-*.log
+*.loghttp://www.rungphet.com/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -151,5 +151,4 @@ dist
 service-account.json
 service-account-credentials.json
 
-.DS_Store
-Thumbs.db
+http://www.rungphet.com/
