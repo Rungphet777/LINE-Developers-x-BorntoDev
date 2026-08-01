@@ -1,1 +1,1 @@
-http://www.rungphet.com/
+http://www.rungphet.com.supl.com
